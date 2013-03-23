@@ -1,0 +1,17 @@
+{
+	"name": "plunge",
+	"title": "Plunge.js",
+	"version": "0.1.0",
+	"description": "Make elements move, change, and dance as you scroll!",
+	"keywords": [
+		"plunge",
+		"scroll",
+		"transition",
+		"flat"
+	],
+	"author": {
+		"name": "Ben Myers",
+		"web": "http://benlawrencem.com"
+	},
+	"docs": "https://github.com/BenLawrenceM/Plunge.js/blob/master/README.md"
+}
